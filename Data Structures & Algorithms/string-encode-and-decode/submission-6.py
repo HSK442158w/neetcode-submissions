@@ -8,7 +8,7 @@ class Solution:
         return jinja
 
     def decode(self, s:str) -> List[str]:
-        gron=[] #.............2#ji4#nigg11#ninammunkay3#dik
+        gron=[] 
         i=0
         while i < len(s):
             j=i
