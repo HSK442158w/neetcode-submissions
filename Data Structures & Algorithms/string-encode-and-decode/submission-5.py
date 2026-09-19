@@ -7,7 +7,7 @@ class Solution:
         return coin
 
     def decode(self, s: str) -> List[str]:
-        gengar=[] #........"""2#ji4#nigs11#ninahuunkay3#dik"""
+        gengar=[] #Tru
         i=0
         while i<len(s):
             j=i
